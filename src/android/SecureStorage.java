@@ -3,6 +3,7 @@ package com.crypho.plugins;
 import java.lang.reflect.Method;
 import java.util.Hashtable;
 
+import android.content.ActivityNotFoundException;
 import android.util.Log;
 import android.util.Base64;
 import android.os.Build;
